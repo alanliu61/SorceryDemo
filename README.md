@@ -1,1 +1,1 @@
-# SorceryREADME
+# Sorcery Demo
