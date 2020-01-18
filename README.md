@@ -18,8 +18,8 @@ Ritual Cards:
 
 <img src="rituals.png" width=525>
 
-Game Board right at the start of the game
+## Game Board right at the start of the game
 ![](start_board.png)
 
-Game Board during a game
+## Game Board during a game
 ![](mid_game_board.png)
