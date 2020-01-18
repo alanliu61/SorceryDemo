@@ -4,7 +4,7 @@ All the cards available in the game
 
 Minion Cards:
 
-<img src="minions.png" width=750>
+<img src="minions.png" width=700>
 
 Enchantment Cards:
 
