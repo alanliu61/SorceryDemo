@@ -8,12 +8,15 @@ Minion Cards:
 
 Enchantment Cards:
 
-<img src="enchantments.png" width=750>
+<img src="enchantments.png" width=525>
 
 Spell Cards:
-![](spells.png)
+
+<img src="spells.png" width=525>
+
 Ritual Cards:
-![](rituals.png)
+
+<img src="rituals.png" width=525>
 
 Game Board right at the start of the game
 ![](start_board.png)
