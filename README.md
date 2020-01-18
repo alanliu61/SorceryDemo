@@ -2,7 +2,7 @@
 
 All the cards available in the game
 Minion Cards:
-![](minions.png)
+<img src="minions.png" width=100>
 Enchantment Cards:
 ![](enchantments.png)
 Spell Cards:
