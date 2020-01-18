@@ -23,3 +23,9 @@ Ritual Cards:
 
 ## Game Board during a game
 ![](mid_game_board.png)
+
+## Displaying the player's hand
+![](display_hand.png)
+
+## Inspect the player's minion (to see what enchantment is applied to it)
+![](inspect.png)
