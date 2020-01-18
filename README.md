@@ -1,6 +1,6 @@
 # Sorcery Demo (No graphic display version)
 
-All the cards available in the game
+## All the cards available in the game
 
 Minion Cards:
 
