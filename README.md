@@ -22,4 +22,4 @@ Game Board right at the start of the game
 ![](start_board.png)
 
 Game Board during a game
-![](mid_game.png)
+![](mid_game_board.png)
